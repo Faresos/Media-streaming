@@ -54,7 +54,7 @@ html {
 }
 /* header */
 header {
-  background-image: url(/imgs.home&movies/Sub\ Container\ \(1\).png);
+  background-image: url("../imgs.home&movies/fares.png");
   min-height: 100vh;
   background-size: cover;
   position: relative;
