@@ -908,7 +908,7 @@ p.active {
   padding-bottom: var(--padding-top);
 }
 .trial {
-  background-image: url(/imgs.home&movies/888.png);
+  background-image: url("../imgs.home&movies/888.png");
   background-size: cover;
   height: 180px;
   display: flex;
